@@ -7,9 +7,13 @@ Users can search a city and instantly view temperature, humidity, wind speed, an
 
 ## 🚀 Live Demo
 
-After enabling GitHub Pages:
+https://pappuravidas47.github.io/Weather-App/
 
-https://your-username.github.io/weather-app/
+---
+
+## 📸 Preview
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-03 014434" src="https://github.com/user-attachments/assets/30db5174-6e3b-4f7b-ad74-30a5a7c10fe1" />
 
 ---
 
@@ -77,12 +81,6 @@ with your API key.
 
 ---
 
-## 📸 Preview
-
-(Add a screenshot of your project here)
-
----
-
 ## 👨‍💻 Credits
 
 Made with ❤️ by **Pappu Kumar Ravidas**
@@ -94,4 +92,4 @@ Made with ❤️ by **Pappu Kumar Ravidas**
 
 ## ⭐ Support
 
-If you like this project, please consider giving it a **star ⭐** on GitHub!
+If you like this project, please consider giving it a **star ⭐** on GitHub !
