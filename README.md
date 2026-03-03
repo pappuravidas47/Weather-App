@@ -57,21 +57,6 @@ weather-app
 
 ---
 
-## 🔑 Setup API Key
-
-1. Create account on https://openweathermap.org
-2. Generate a free API key
-3. Open `script.js`
-4. Replace:
-
-```js
-const apiKey = "YOUR_API_KEY";
-```
-
-with your API key.
-
----
-
 ## ▶️ Run Locally
 
 1. Download the project
